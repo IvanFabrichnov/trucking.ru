@@ -1,0 +1,18 @@
+.img {
+    width: 980px;
+    height: 100%;
+    float: right
+}
+
+.content {
+    font-size: 30px;
+
+    float: left;
+    margin-top: -29%;
+
+}
+
+.body {
+    margin: 0;
+    background-image: url(https://avatars.mds.yandex.net/get-pdb/1016956/7eb5f03e-7eea-4a06-bd94-09094b3209c9/s1200)
+}
